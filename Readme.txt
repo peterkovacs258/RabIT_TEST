@@ -1,5 +1,5 @@
 The application was tested in XAMPP's APACHE webserver, and MYSQL database.
-The sql export can be found in the sql_export folder.
+The sql export can be found inside the sql_export folder.
 
 
 
